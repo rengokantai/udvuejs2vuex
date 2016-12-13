@@ -30,3 +30,12 @@
 
 ###25 practice solution
 [test](https://jsfiddle.net/rengokantai/nLz0qatr/)
+
+###28 two-way binding
+[test](https://jsfiddle.net/rengokantai/kng9h1h2/)
+
+###29 reacting to changes
+[test](https://jsfiddle.net/rengokantai/u14saLw9/)
+
+###30 Watching
+[test](https://jsfiddle.net/rengokantai/bc7wcLtv/)
