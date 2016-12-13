@@ -39,3 +39,17 @@
 
 ###30 Watching
 [test](https://jsfiddle.net/rengokantai/bc7wcLtv/)
+
+
+###31 shorthand form
+[test](https://jsfiddle.net/rengokantai/2c4od0ov/)
+
+###33 practice solution
+[test](https://jsfiddle.net/rengokantai/k7eu0rjg/)
+
+
+###35 class basics
+[test](https://jsfiddle.net/rengokantai/pk5outxu/)
+
+###36 using objects
+[test](https://jsfiddle.net/rengokantai/ew8ojgs7/)
