@@ -64,3 +64,16 @@
 
 ###41 practice solution
 [test](https://jsfiddle.net/rengokantai/u2aLgqjk/)
+
+###47 v-if
+[test](https://jsfiddle.net/rengokantai/L7kgxnf7/)
+
+###49
+v-if=true: show/remove DOM  
+v-show=false: css display:none,DOM not detached
+
+###50
+[test](https://jsfiddle.net/rengokantai/tyuLedx6/)
+
+###51 index
+[test](https://jsfiddle.net/rengokantai/nguwdvas/)
