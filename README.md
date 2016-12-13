@@ -20,3 +20,13 @@
 
 ###21
 [test](https://jsfiddle.net/rengokantai/87c0gtL3/)
+
+
+###22
+[test](https://jsfiddle.net/rengokantai/Ldowbdk4/)
+
+###23
+[test](https://jsfiddle.net/rengokantai/fhfm7j3d/)
+
+###25 practice solution
+[test](https://jsfiddle.net/rengokantai/nLz0qatr/)
