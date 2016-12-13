@@ -77,3 +77,10 @@ v-show=false: css display:none,DOM not detached
 
 ###51 index
 [test](https://jsfiddle.net/rengokantai/nguwdvas/)
+
+###52 template. alternative v-for
+[test](https://jsfiddle.net/rengokantai/k04vb5zz/)
+
+
+###53 looping through objects
+[test](https://jsfiddle.net/rengokantai/dqphhmbe/)
