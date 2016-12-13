@@ -53,3 +53,14 @@
 
 ###36 using objects
 [test](https://jsfiddle.net/rengokantai/ew8ojgs7/)
+
+
+###37 multiple
+[test](https://jsfiddle.net/rengokantai/ko3832sc/)
+
+
+###38 setting styles dynamically
+[test](https://jsfiddle.net/rengokantai/kvk4ho1m/)
+
+###41 practice solution
+[test](https://jsfiddle.net/rengokantai/u2aLgqjk/)
