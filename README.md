@@ -84,3 +84,13 @@ v-show=false: css display:none,DOM not detached
 
 ###53 looping through objects
 [test](https://jsfiddle.net/rengokantai/dqphhmbe/)
+
+
+###54
+```
+<span v-for="n in 10">{{n}}</span>
+```
+
+
+###55
+[test](https://jsfiddle.net/rengokantai/bsarj6up/)
