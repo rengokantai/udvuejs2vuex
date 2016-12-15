@@ -94,3 +94,6 @@ v-show=false: css display:none,DOM not detached
 
 ###55
 [test](https://jsfiddle.net/rengokantai/bsarj6up/)
+
+###56
+[test](https://jsfiddle.net/rengokantai/t081h4t2/)
