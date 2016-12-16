@@ -103,3 +103,10 @@ v-show=false: css display:none,DOM not detached
 
 ###85
 [test](https://jsfiddle.net/rengokantai/Lvg7j06g/)
+
+###86
+[test](https://jsfiddle.net/rengokantai/q8sc81b5/)
+
+
+###88 lifecycle
+[test](https://jsfiddle.net/rengokantai/sguustwv/)
